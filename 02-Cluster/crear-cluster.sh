@@ -3,7 +3,7 @@
 # Variables
 CLUSTER_NAME="final-cluster"
 AWS_REGION="us-east-2"
-SSH_KEY="pin-final" 
+SSH_KEY="clave-ssh" 
 
 # Verificación de credenciales de AWS
 if aws sts get-caller-identity &> /dev/null; then
