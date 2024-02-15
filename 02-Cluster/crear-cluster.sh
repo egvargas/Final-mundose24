@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-CLUSTER_NAME="pin-final-cluster"
+CLUSTER_NAME="final-cluster"
 AWS_REGION="us-east-2"
 SSH_KEY="pin-final" 
 
